@@ -1,0 +1,7 @@
+--------------------------------------------------
+---------- Lista de productos de 2ª mano ---------
+ID: 329767 | valor: 195,79 | peso: 04,5 | asignado: true | clase: C
+ID: 935083 | valor: 41,07 | peso: 04,0 | asignado: true | clase: C
+ID: 142475 | valor: 465,49 | peso: 05,4 | asignado: true | clase: C
+El beneficio de la tienda de segunda mano(SM) es: 702.3392131282772
+--------------------------------------------------
